@@ -47,7 +47,7 @@ The dataset includes 64 attributes such as:
 - Statistics
 - Problem Solving
 
-📌 This is part of my Data Analyst learning journey.
+📌 This is part of my Data Analyst journey.
 Feel free to follow along as I grow!
 
 ---
